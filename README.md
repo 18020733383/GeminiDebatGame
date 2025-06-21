@@ -11,16 +11,16 @@
 ## 截图展示
 
 主界面   
-<img src="https://github.com/user-attachments/assets/3787ae8e-8fcc-4a13-b25c-223caaefffee" width="300" alt="主界面截图">   
+![image](https://github.com/user-attachments/assets/dce6199f-fcc9-4315-8946-bcefd1b4f1b2)   
 
 辩论界面   
-<img src="https://github.com/user-attachments/assets/146dd780-474b-4938-8c47-e220db2edad3" width="300" alt="辩论界面截图">   
+![image](https://github.com/user-attachments/assets/dc587aa5-97c0-4f28-8a72-f1007a75f193)   
 
 评委打分   
-<img src="https://github.com/user-attachments/assets/0cdbbad1-5215-4976-af33-540d0d856597" width="300" alt="评委打分截图">   
+![image](https://github.com/user-attachments/assets/b5926df9-6583-4abc-88dd-d6110e0082f0)   
 
 md导出   
-<img src="https://github.com/user-attachments/assets/38d0ed42-fc24-4a19-b6c4-cbebc4b1619b" width="300" alt="md导出">   
+![image](https://github.com/user-attachments/assets/3b278bb3-827a-4559-99c1-a6589d6390b5)   
 
 ---
 
@@ -162,6 +162,10 @@ npm run dev
 * [ ] 更多自定义 AI 角色和辩论风格。
 * [ ] 辩论历史记录手动保存/命名功能。
 * [ ] 国际化支持 (i18n)。
+* [ ] 支持更多模型（期待deepseek的表现😋）
+* [ ] 内容折叠（节省token）
+* [ ] 布局适应
+* [ ] 后端（热门话题，云端存储，登录等等功能🤔还有很多可拓展空间）
 
 ---
 
