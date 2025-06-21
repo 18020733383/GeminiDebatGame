@@ -1,0 +1,6 @@
+{
+  "name": "Gemini AI 辩论赛",
+  "description": "一个由 Gemini AI 驱动的互动辩论应用程序。用户设定辩题，两位 AI 辩手（正方和反方）轮流发言，进行辩论。",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
